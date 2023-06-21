@@ -4,13 +4,50 @@
   
     
     <entry>
+      <title>page</title>
+      <link href="/2023/06/21/page/"/>
+      <url>/2023/06/21/page/</url>
+      
+        <content type="html"><![CDATA[<h1 id="hai"><a href="#hai" class="headerlink" title="hai"></a>hai</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> c++ </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> c++ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>first</title>
-      <link href="/2023/06/20/2023-6-20%20-first/"/>
-      <url>/2023/06/20/2023-6-20%20-first/</url>
+      <link href="/2023/06/20/2023-6-20-first/"/>
+      <url>/2023/06/20/2023-6-20-first/</url>
       
         <content type="html"><![CDATA[<h2 id="first-artical"><a href="#first-artical" class="headerlink" title="first artical"></a>first artical</h2>]]></content>
       
       
+      <categories>
+          
+          <category> j++ </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> c </tag>
+            
+        </tags>
       
     </entry>
     
