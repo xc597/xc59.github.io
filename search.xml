@@ -63,6 +63,18 @@
         <content type="html"><![CDATA[]]></content>
       
       
+      <categories>
+          
+          <category> jg </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> sd </tag>
+            
+        </tags>
       
     </entry>
     
@@ -89,6 +101,18 @@
         <content type="html"><![CDATA[]]></content>
       
       
+      <categories>
+          
+          <category> j </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -99,9 +123,21 @@
       <link href="/2023/06/21/page-2/"/>
       <url>/2023/06/21/page-2/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="Anaconda介绍"><a href="#Anaconda介绍" class="headerlink" title="Anaconda介绍"></a>Anaconda介绍</h1><blockquote><p>anconda是一个用于科学计算的==python发行版==，支持 ==Linux, Mac, Windows==系统，提供了==包管理与环境管理==的功能，可以很方便地解决多版本python并存、切换以及各种第三方包安装问题。通俗点说，你只需要安装一个anconda，安装好之后，会有一个默认的python环境，安装anconda2就是默认python2，安装python3就是默认python3，同时，anconda还给你预装了大部分常用的python包，你只需要用anconda自带的命令conda来安装你需要的包就行了，还有一点，如果你安装了anconda2已经有了python2环境，你可以通过conda来安装python3,anconda可以管理两个版本的python环境，并提供切换方式，可以随时切换到不同的python版本。conda命令类似于pip，是anconda的包管理器工具，conda的设计理念——conda将几乎所有的工具、第三方包都当做package对待，甚至包括python和conda自身！因此，conda打破了包管理与环境管理的约束，能非常方便地安装各种版本python、各种package并方便地切换。</p></blockquote><h1 id="Anaconda安装"><a href="#Anaconda安装" class="headerlink" title="Anaconda安装"></a>Anaconda安装</h1><h2 id="清华大学源安装"><a href="#清华大学源安装" class="headerlink" title="清华大学源安装"></a>清华大学源安装</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://repo.anaconda.com/archive/</span><br></pre></td></tr></table></figure><blockquote><p>[!BLink]<br><a href="https://repo.anaconda.com/archive/">https://repo.anaconda.com/archive/</a></p></blockquote><h2 id="官网安装"><a href="#官网安装" class="headerlink" title="官网安装"></a>官网安装</h2><blockquote><p>[!BLink]<br><a href="https://www.anaconda.com/products/distribution">https://www.anaconda.com/products/distribution</a></p></blockquote><h2 id="环境变量配置"><a href="#环境变量配置" class="headerlink" title="环境变量配置"></a>环境变量配置</h2><p><img src="https://s2.vika.cn/space/2023/03/09/b0365130a96c4e278637880cae0298d9" alt=""></p><h2 id="检查是否安装成功"><a href="#检查是否安装成功" class="headerlink" title="检查是否安装成功"></a>检查是否安装成功</h2><h3 id="打开cmd"><a href="#打开cmd" class="headerlink" title="打开cmd"></a>打开cmd</h3><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">path</span><br></pre></td></tr></table></figure><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">python</span><br></pre></td></tr></table></figure><p>```sh<br>CALL conda.bat.activate</p>]]></content>
       
       
+      <categories>
+          
+          <category> jd </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+        </tags>
       
     </entry>
     
